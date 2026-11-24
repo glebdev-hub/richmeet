@@ -1,3 +1,6 @@
 title: RichMeet
-description: Live call translation and an AI meeting secretary, entirely on your Mac
+description: Live translation, meeting summaries and tasks — private, on your Mac
 theme: jekyll-theme-minimal
+# Ссылка на страницу в Mac App Store. Пока пусто — на странице кнопка «Скоро в Mac App Store» без ссылки.
+# После публикации вставить, например: https://apps.apple.com/app/id0000000000
+appstore_url: ""

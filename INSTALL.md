@@ -1,66 +1,17 @@
-# How to install RichMeet
+# Installing RichMeet
 
-Requires a Mac with Apple silicon (M1 or later) and macOS 26 or later. About 5 GB of free space (app + models).
+RichMeet is distributed through the **Mac App Store** (coming soon): install it like any other app from the App Store, and it updates automatically. There is no separate download.
 
-## Install
-1. Open `RichMeet-<version>.dmg`.
-2. Drag **RichMeet** into the **Applications** folder.
-3. Eject the RichMeet disk.
+Requires a Mac with Apple silicon (M1 or later) and macOS 26 or later.
 
-## First launch
-The app isn't notarized by Apple yet, so macOS will block it the first time. You only need to do this once.
-
-1. Open RichMeet from Applications. A message says it can't be verified — click **Done**.
-2. Open **System Settings → Privacy & Security**.
-3. Scroll down to **Security** and click **Open Anyway** next to RichMeet, then confirm with your password.
-4. Open RichMeet again and click **Open**.
-
-For advanced users, the same in Terminal:
-`xattr -dr com.apple.quarantine /Applications/RichMeet.app`
-
-## Next steps
-- Accept the User Agreement. The app then offers to download a model for translation and summaries (about 3 GB) and asks for permissions:
-  **Microphone** — for your speech; **Screen & System Audio Recording** — for other people's speech. You may need to restart the app after granting the second one.
-- The RichMeet icon appears in the menu bar at the top of the screen.
-- The interface follows your macOS language (English, French, German, Italian, Spanish, Russian or Thai).
-
-## Updating
-Download the new .dmg and replace the app in Applications. Recordings and models are kept.
-Until the app is signed with an Apple certificate, macOS may ask for microphone and audio permission again after an update.
-
-## Uninstalling
-Settings → “Recordings & Shortcuts” → “Delete all data”, then drag the app from Applications to the Trash.
+On first launch RichMeet asks for **Microphone** access (your speech) and **System Audio Recording** (other people's speech in calls and videos — audio only, no screen). You can change these later in System Settings → Privacy & Security.
 
 ---
 
-# Как установить RichMeet
+# Установка RichMeet
 
-Требуется Mac с Apple Silicon (M1 и новее) и macOS 26 или новее. Нужно около 5 ГБ свободного места (приложение + модели).
+RichMeet распространяется через **Mac App Store** (скоро): устанавливается как любое приложение из App Store и обновляется само. Отдельной загрузки нет.
 
-## Установка
-1. Откройте файл `RichMeet-<версия>.dmg`.
-2. Перетащите **RichMeet** в папку **Программы** (Applications).
-3. Извлеките диск RichMeet.
+Нужен Mac на Apple silicon (M1 и новее) и macOS 26 или новее.
 
-## Первый запуск
-Приложение пока не заверено Apple (нет нотаризации), поэтому macOS при первом запуске его остановит. Это делается один раз.
-
-1. Откройте RichMeet из «Программ». Появится сообщение, что приложение не удаётся проверить — нажмите **Готово**.
-2. Откройте **Системные настройки → Конфиденциальность и безопасность**.
-3. Внизу, в разделе «Безопасность», нажмите **Всё равно открыть** рядом с RichMeet и подтвердите паролем.
-4. Запустите RichMeet ещё раз и нажмите **Открыть**.
-
-Для опытных: то же самое одной командой в Терминале —
-`xattr -dr com.apple.quarantine /Applications/RichMeet.app`
-
-## Дальше
-- Приложение предложит скачать модель для перевода и конспектов (около 3 ГБ) и попросит разрешения:
-  **Микрофон** — для вашей речи; **Запись экрана и системного звука** — для речи собеседников. После выдачи второго разрешения может понадобиться перезапустить приложение.
-- Значок RichMeet появится в строке меню вверху экрана.
-
-## Обновление
-Скачайте новый .dmg и замените приложение в «Программах». Записи и модели сохранятся.
-Пока приложение не подписано сертификатом Apple, после обновления macOS может заново спросить разрешения на микрофон и звук.
-
-## Удаление
-Настройки → «Записи и клавиши» → «Удалить все данные», затем перетащите приложение из «Программ» в Корзину.
+При первом запуске RichMeet попросит доступ к **микрофону** (ваша речь) и к **записи системного звука** (речь собеседников в созвонах и видео — только звук, без экрана). Изменить это можно в Системных настройках → Конфиденциальность и безопасность.
