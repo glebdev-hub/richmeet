@@ -23,7 +23,7 @@
 - Языковые пакеты распознавания и перевода macOS скачивает с серверов Apple по правилам Apple.
 - Покупки и подписки проходят через App Store (StoreKit). Оплату обрабатывает Apple; у RichMeet нет своих серверов, и разработчик не получает ваших платёжных или личных данных — только обезличенные отчёты о продажах от Apple.
 - Никакой аналитики, рекламы, отчётов о сбоях от разработчика и учётных записей.
-- **ИИ-помощники через MCP — только если вы их подключите.** MCP-сервер RichMeet работает на вашем Mac и только читает данные. Если добавить RichMeet в Claude Desktop, Claude Code или другой помощник (Настройки → «Модель» → «Доступ для ИИ-помощников»), помощник сможет читать конспекты, задачи, заметки и расшифровки (без звука) и отправлять прочитанное своему провайдеру по его правилам. RichMeet сам ничего не отправляет.
+- **ИИ-помощники через MCP — только если вы их подключите.** MCP-сервер RichMeet работает на вашем Mac и только читает данные. Если добавить RichMeet в Claude Desktop, Claude Code или другой помощник (Настройки → «Дополнительные настройки» → «Модель» → «Доступ для ИИ-помощников»), помощник сможет читать конспекты, задачи, заметки и расшифровки (без звука) и отправлять прочитанное своему провайдеру по его правилам. RichMeet сам ничего не отправляет.
 - **Облачные модели — только если вы их включите.** Если в Настройках → «Модель» выбрать Claude, OpenAI, DeepSeek или Kimi и ввести свой API-ключ, текст расшифровок, заметок, вопросов и найденных фрагментов документов базы знаний отправляется этому провайдеру и обрабатывается по его правилам (серверы DeepSeek и Kimi — в Китае). Звук и в этом случае остаётся на Mac. Ключ хранится в связке ключей macOS.
 
 **Запись собеседников**
@@ -59,7 +59,7 @@ You can delete all of it in Settings → “Recordings & Shortcuts” → “Del
 - macOS downloads speech-recognition and translation language packs from Apple under Apple's terms.
 - Purchases and subscriptions go through the App Store (StoreKit). Apple processes payments; RichMeet has no servers of its own, and the developer receives none of your payment or personal data — only anonymized sales reports from Apple.
 - No analytics, ads, developer crash reports or accounts.
-- **AI assistants via MCP — only if you connect them.** The RichMeet MCP server runs on your Mac and is read-only. If you add RichMeet to Claude Desktop, Claude Code or another assistant (Settings → “Model” → “Access for AI assistants”), the assistant can read summaries, tasks, notes and transcripts (no audio) and send what it reads to its provider under its terms. RichMeet itself sends nothing.
+- **AI assistants via MCP — only if you connect them.** The RichMeet MCP server runs on your Mac and is read-only. If you add RichMeet to Claude Desktop, Claude Code or another assistant (Settings → “Advanced settings” → “Model” → “Access for AI assistants”), the assistant can read summaries, tasks, notes and transcripts (no audio) and send what it reads to its provider under its terms. RichMeet itself sends nothing.
 - **Cloud models — only if you turn them on.** If you choose Claude, OpenAI, DeepSeek or Kimi in Settings → “Model” and enter your own API key, the text of transcripts, notes, questions and matching fragments of knowledge-base documents is sent to that provider and handled under its terms (DeepSeek and Kimi servers are in China). Audio still stays on your Mac. The key is stored in the macOS Keychain.
 
 **Recording other people**

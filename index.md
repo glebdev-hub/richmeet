@@ -28,14 +28,13 @@ table.rm-cmp td, table.rm-cmp th { text-align:center; } table.rm-cmp td:first-ch
 </div>
 
 ## Glossary for names and terms
-Mistakes in names, company names and jargon are the most common complaint about meeting transcripts. In RichMeet you list them once:
+Mistakes in names, company names and jargon are the most common complaint about meeting transcripts. In RichMeet you list them once, in two simple tables:
 
-- names and terms are passed to speech recognition and to Whisper as hints;
-- with a translation (`retention = Bindung`) the AI model uses your translation of the term;
-- with an arrow (`at last → Atlas`) a word that recognition mishears is fixed automatically in live transcripts — or right-click a line to fix it in a past meeting;
+- **Names and terms** — passed to speech recognition and to Whisper as hints; add a translation (retention → Bindung) and the AI model translates the term your way;
+- **Recognition corrections** — "recognized as → correct spelling" (at last → Atlas): fixed automatically in live transcripts; you can add a correction right from a transcript line and fix the past meeting too;
 - summaries, reports and answers keep your spelling.
 
-Up to 20 terms in the free version, unlimited in Pro.
+Up to 20 entries in the free version (both tables together), unlimited in Pro.
 
 ## Private by design
 Speech recognition (Apple, on device), translation (Apple Translate or the built-in model) and summaries run on your Mac. No account, no analytics, no recordings sent anywhere. RichMeet listens to your Mac's audio, so it works the same with any call app or video, and nobody is added to the call. Cloud models (Claude, OpenAI, DeepSeek, Kimi) are optional and used only with your own API key.
@@ -115,14 +114,13 @@ Mac with Apple silicon (M1 or later), macOS 26 or later. Models for translation 
 </div>
 
 ### Словарь имён и терминов
-Ошибки в именах, названиях компаний и терминах — самая частая жалоба на расшифровки встреч. В RichMeet их достаточно перечислить один раз:
+Ошибки в именах, названиях компаний и терминах — самая частая жалоба на расшифровки встреч. В RichMeet их достаточно перечислить один раз — в двух простых таблицах:
 
-- имена и термины передаются подсказками распознаванию речи и Whisper;
-- с переводом («удержание = retention») модель переводит термин так, как вы указали;
-- со стрелкой («атлос → Атлас») слово, которое распознавание слышит неправильно, исправляется в живой расшифровке автоматически, а в прошлой встрече — правой кнопкой по реплике;
+- **Имена и термины** — передаются подсказками распознаванию речи и Whisper; укажите перевод (удержание → retention), и модель переведёт термин так, как нужно вам;
+- **Исправления распознавания** — «как распознано → как правильно» (атлос → Атлас): исправляются в живой расшифровке автоматически; исправление можно добавить прямо из реплики в расшифровке и сразу поправить прошлую встречу;
 - конспекты, отчёты и ответы сохраняют ваше написание.
 
-До 20 терминов бесплатно, в Pro — без ограничений.
+До 20 записей бесплатно (обе таблицы вместе), в Pro — без ограничений.
 
 ### Приватность
 Распознавание речи (Apple, на устройстве), перевод (переводчик Apple или встроенная модель) и конспекты работают на вашем Mac. Без учётной записи, без аналитики, записи никуда не отправляются. RichMeet слушает звук Mac, поэтому одинаково работает с любым приложением для созвонов и с видео, и в звонок никто не добавляется. Облачные модели (Claude, OpenAI, DeepSeek, Kimi) — по желанию и только с вашим API-ключом.
