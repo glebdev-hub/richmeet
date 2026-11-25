@@ -12,8 +12,8 @@ RichMeet («Приложение») распространяется через 
 
 ## 2. RichMeet Pro, пробный период и подписки
 - Бесплатная версия работает без ограничения срока. Функции RichMeet Pro доступны по разовой покупке «Pro навсегда» или по подписке на месяц или год; актуальные цены показаны в Приложении и в App Store.
-- Бесплатный пробный период длится 14 дней и даёт все функции Pro. После него бесплатные функции продолжают работать; данные, созданные в пробный период, сохраняются.
-- Подписка продлевается автоматически, пока её не отменят хотя бы за 24 часа до конца текущего периода. Оплата списывается с вашей учётной записи Apple при подтверждении покупки (после бесплатного вводного периода, если он есть). Управлять подпиской и отменить её можно в настройках учётной записи App Store. Неиспользованная часть бесплатного периода сгорает при покупке подписки.
+- Бесплатный пробный период длится 14 дней и даёт все функции Pro. Он один для всех, оформляется отдельной бесплатной покупкой «Пробный период» без подписки и без карты; второй раз его не взять. После него бесплатные функции продолжают работать; данные, созданные в пробный период, сохраняются.
+- Подписка продлевается автоматически, пока её не отменят хотя бы за 24 часа до конца текущего периода. Оплата списывается с вашей учётной записи Apple при подтверждении покупки; бесплатного вводного периода у подписок нет. Управлять подпиской и отменить её можно в настройках учётной записи App Store.
 - Возвраты оформляются через Apple (reportaproblem.apple.com) по правилам App Store.
 - «Pro навсегда» — разовая покупка: она действует для вашей учётной записи Apple без срока и включает обновления Приложения, пока Приложение распространяется в App Store. Восстановить покупки на другом Mac можно кнопкой «Восстановить покупки».
 - Встречи сверх бесплатного лимита не удаляются: они хранятся и снова открываются с Pro.
@@ -54,8 +54,8 @@ The rights holder grants you a non-exclusive, non-transferable right to use the 
 
 ## 2. RichMeet Pro, free trial and subscriptions
 - The free version has no time limit. RichMeet Pro features are available with a one-time "Pro for Life" purchase or a monthly or yearly subscription; current prices are shown in the App and on the App Store.
-- The free trial lasts 14 days and includes all Pro features. Afterwards the free features keep working; data created during the trial is kept.
-- Subscriptions renew automatically unless cancelled at least 24 hours before the end of the current period. Payment is charged to your Apple Account when you confirm the purchase (after the free introductory period, if any). You can manage and cancel subscriptions in your App Store account settings. Any unused portion of a free period is forfeited when you purchase a subscription.
+- The free trial lasts 14 days and includes all Pro features. There is one trial for everyone, started as a separate free "14-day Trial" purchase with no subscription and no card; it can be taken only once. Afterwards the free features keep working; data created during the trial is kept.
+- Subscriptions renew automatically unless cancelled at least 24 hours before the end of the current period. Payment is charged to your Apple Account when you confirm the purchase; subscriptions have no free introductory period. You can manage and cancel subscriptions in your App Store account settings.
 - Refunds are handled by Apple (reportaproblem.apple.com) under App Store rules.
 - "Pro for Life" is a one-time purchase: it stays with your Apple Account with no expiry and includes App updates for as long as the App is distributed on the App Store. Use "Restore Purchases" to restore it on another Mac.
 - Meetings above the free limit are never deleted: they are kept and open again with Pro.

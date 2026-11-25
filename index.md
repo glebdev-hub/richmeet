@@ -85,7 +85,7 @@ By category of product, as they usually work (individual products differ).
 | Model choice: Gemma E4B, LM Studio, cloud with your key | | ✓ |
 | Automatic call recording, custom hotkeys, statistics | | ✓ |
 
-**Pro:** 14 days free, then **$59.99 once** (Pro for life) or **$4.99 / month** or **$39.99 / year**. Older meetings above the free limit are kept, not deleted, and open again with Pro. Prices may vary by country; the App Store shows the final price. Subscriptions renew automatically until cancelled in your App Store account settings.
+**Pro:** a 14-day free trial (no subscription, no card), then **$59.99 once** (Pro for life) or **$4.99 / month** or **$39.99 / year**. Older meetings above the free limit are kept, not deleted, and open again with Pro. Prices may vary by country; the App Store shows the final price. Subscriptions renew automatically until cancelled in your App Store account settings.
 
 <img src="screenshots/en/08-pro.jpg" alt="RichMeet Pro" style="width:100%;border-radius:8px;border:1px solid #E5E5EA">
 
@@ -171,7 +171,7 @@ Mac with Apple silicon (M1 or later), macOS 26 or later. Models for translation 
 | Выбор модели: Gemma E4B, LM Studio, облако по вашему ключу | | ✓ |
 | Автозапись звонков, свои горячие клавиши, статистика | | ✓ |
 
-**Pro:** 14 дней бесплатно, затем **$59.99 один раз** (Pro навсегда), **$4.99 в месяц** или **$39.99 в год**. Встречи сверх бесплатного лимита не удаляются и снова открываются с Pro. Цены в разных странах могут отличаться, окончательную цену показывает App Store. Подписка продлевается автоматически, пока её не отменят в настройках учётной записи App Store.
+**Pro:** пробный период 14 дней бесплатно (без подписки и без карты), затем **$59.99 один раз** (Pro навсегда), **$4.99 в месяц** или **$39.99 в год**. Встречи сверх бесплатного лимита не удаляются и снова открываются с Pro. Цены в разных странах могут отличаться, окончательную цену показывает App Store. Подписка продлевается автоматически, пока её не отменят в настройках учётной записи App Store.
 
 <img src="screenshots/ru/08-pro.jpg" alt="RichMeet Pro" style="width:100%;border-radius:8px;border:1px solid #E5E5EA">
 
